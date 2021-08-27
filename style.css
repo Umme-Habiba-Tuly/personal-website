@@ -145,7 +145,7 @@ body{
     color:white;
     padding: 33px 23px;
     background-image: linear-gradient(70deg, mediumvioletred, deeppink, tomato);
-    border-radius: 2%;
+    border-radius: 10px;
     margin: auto;
 }
 .footer{
